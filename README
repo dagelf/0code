@@ -1,0 +1,41 @@
+This is to become a three part project, consisting of:
+
+1) A visual editor - unlike anything that exists today, capable of visually editing many things.
+2) A metalanguage - much like Parrot (PASM) - who knows, we might end up using that.
+3) A marketplace for components, compilers, parsers, patterns, algorithms and ideas, integrated with the above.
+
+FAQ
+
+You're delusional. This is impossible. Don't you think you're wasting your time? 
+
+- I have been thinking about this for the better part of the past 10 years. Perhaps even more. I feel it's my calling, and I know that I have ideas that will work, I just have not had the time to implement any.
+
+Why open-source?
+
+- I'm convinced that it's the only way to get the project off the ground without quitting my day job. But more importantly, if we do this right, it could add immeasurable value to everyone's lives.
+
+Where's the code?
+
+- I have some proof-of-concept code written in Freepascal the days of DOS and Windows 95, using VESA graphics and BIOS calls. I'm in the process of converting a rudimentary Windows version to run on Linux. Once it's running, I'll upload it here and we can start playing!
+
+I don't code - how can I contribute?
+
+- What are you goint to call it?
+
+I don't know. While walking around Kirstenbosch at Scaleconf, in light of things like noSQL, I though a "nocode" tag might be appropriate. The metalanguage I have dubbed "Wish" after the company that I work for. 
+
+- Why?
+
+Few people have the time to invest in getting to know most languages out there. Ultimately, a computer is best suited to doing the coding. Why compile code into assembly, when you can compile pictures into code?
+
+- Compiling pictures into code - how?
+
+I have some fundamental ideas about this. But I'm sure anyone who spends enough time thinking about this, will come up with a system thats simpler and better than anything that came before.
+
+- Contact details?
+
+Please follow this github project
+Email me at nocode@wish.org.za to get involved
+I am in the process of registering a homepage at http://nocode.co.za
+I'm going to host events, both physical and on-line to get this up and running.
+
