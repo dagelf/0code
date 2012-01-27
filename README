@@ -1,29 +1,28 @@
 This is to become a three part project, consisting of:
 
-1) A visual editor - unlike anything that exists today,
-   - capable of visually editing many things.
+1) A visual editor - unlike anything that exists today, capable of visually editing many things.
 
-2) A metalanguage - much like Parrot (PASM) - who knows, 
-   we might end up using that.
+2) A metalanguage - much like Parrot (PASM) - who knows, we might end up using that.
 
-3) A marketplace for components, compilers, parsers, patterns, 
-   algorithms and ideas, integrated with the above.
+3) A marketplace for components, compilers, parsers, patterns, algorithms and ideas, integrated with the above.
 
 FAQ
 
-You're delusional. This is impossible. Don't you think you're wasting your time? 
+- You're delusional. This is impossible. Don't you think you're wasting your time? 
 
-- I have been thinking about this for the better part of the past 10 years. Perhaps even more. I feel it's my calling, and I know that I have ideas that will work, I just have not had the time to implement any.
+I have been thinking about this for the better part of the past 10 years. Perhaps even more. I feel it's my calling and I know that I have ideas that will work, I just have not had the opportunity to take the time to implement any. As a matter of fact, people are getting really angry at me at the moment because I'm not tending to their problems.
 
-Why open-source?
+- Why open-source?
 
-- I'm convinced that it's the only way to get the project off the ground without quitting my day job. But more importantly, if we do this right, it could add immeasurable value to everyone's lives.
+I'm convinced that it's the only way to get the project off the ground without quitting my day job. But more importantly, if we do this right, it could add immeasurable value to everyone's lives.
 
-Where's the code?
+- Where's the code?
 
-- I have some proof-of-concept code written in Freepascal the days of DOS and Windows 95, using VESA graphics and BIOS calls. I'm in the process of converting a rudimentary Windows version to run on Linux. Once it's running, I'll upload it here and we can start playing!
+I have some proof-of-concept code written in Freepascal the days of DOS and Windows 95, using VESA graphics and BIOS calls. I'm in the process of converting a rudimentary Windows version to run on Linux. Once it's running, I'll upload it here and we can start playing!
 
-I don't code - how can I contribute?
+- I don't code - how can I contribute?
+
+This is going to turn into a big project and there will be lots to do for everyone. From making tea and drawing to coding and marketing.
 
 - What are you goint to call it?
 
